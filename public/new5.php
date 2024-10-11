@@ -1,0 +1,1 @@
+<?php print("new5.php"); ?>
