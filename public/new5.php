@@ -1,1 +1,1 @@
-<?php print("new5.php"); ?>
+<?php print("new5.php");  //test new5?>
